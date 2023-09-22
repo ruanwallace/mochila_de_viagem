@@ -14,3 +14,6 @@ O site tem como objetivo simular o que você levaria na mochila em uma determina
 
 
 
+
+![ezgif com-video-to-gif](https://github.com/ruanwallace/mochila_de_viagem/assets/124707764/6aa22664-83fd-42de-9a94-819fde315590)
+
